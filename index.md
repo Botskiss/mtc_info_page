@@ -11,6 +11,7 @@ Hi, I'm Alfredo Milad. Check out my repos!
 | Project Name          | Web Page                                                      | Link                                                         |
 |-----------------------|---------------------------------------------------------------|--------------------------------------------------------------|
 | mtc-backend-prod        | No Page         | [GitHub](https://github.com/Botskiss/mtc-backend-prod.git)         |
+| mtc-frontend-prod        | No Page         | [GitHub](https://github.com/Botskiss/mtc-frontend-prod.git)         |
 | mtc-infra-prod        | No Page         | [GitHub](https://github.com/Botskiss/mtc-infra-prod.git)         |
 
 ----
